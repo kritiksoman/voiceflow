@@ -1,0 +1,13 @@
+rumps
+chromadb
+pyobjc
+soundfile
+google-genai
+google-generativeai
+scipy
+sounddevice
+pydub
+google-adk
+google-cloud-vision
+pyautogui
+pyinstaller
